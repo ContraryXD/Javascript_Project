@@ -1,5 +1,3 @@
-Just testing some stuff around.
-Please do not mind this as I am a newbie.
 Template Name: Furni
 Template Author: Untree.co
 Template License: https://creativecommons.org/licenses/by/3.0/
